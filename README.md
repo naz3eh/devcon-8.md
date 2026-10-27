@@ -8,7 +8,7 @@ Adapted from Sahil's Devcon 8 guide (https://sahilsen.github.io/devcon8-guide/) 
 
 Tell your agent:
 
-> Read https://naz3eh.github.io/devcon-8.md/SKILL.md before helping me with Devcon 8.
+> Read https://devcon.naz3eh.com/SKILL.md before helping me with Devcon 8.
 
 Or fetch the raw file directly:
 
