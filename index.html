@@ -42,7 +42,7 @@ body {
 main {
   width: 100%;
   max-width: 720px;
-  padding: 64px 24px;
+  padding: 40px 24px;
 }
 h1 {
   font-size: 2.6rem;
@@ -57,7 +57,7 @@ h1::before { content: "$ "; color: var(--dim); }
   font-size: 1.05rem;
 }
 .prompt-box {
-  margin-top: 48px;
+  margin-top: 36px;
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: 8px;
@@ -98,7 +98,7 @@ h2 {
   font-size: 0.8rem;
   font-weight: 400;
   color: var(--dim);
-  margin-top: 48px;
+  margin-top: 36px;
   text-transform: uppercase;
   letter-spacing: 0.12em;
 }
@@ -125,14 +125,15 @@ ul.links li::before { content: "→ "; color: var(--accent); }
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 footer {
-  margin-top: 64px;
+  margin-top: 44px;
   padding-top: 16px;
   border-top: 1px solid var(--border);
   color: var(--dim);
   font-size: 0.85rem;
+  text-align: center;
 }
 @media (max-width: 520px) {
-  main { padding: 40px 18px; }
+  main { padding: 32px 18px; }
   h1 { font-size: 2rem; }
   ul.covers { columns: 1; }
   .prompt-body { flex-direction: column; align-items: stretch; }
