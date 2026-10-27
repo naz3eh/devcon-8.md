@@ -5,7 +5,7 @@ description: Use when a user is attending or planning for Devcon 8 (November 3�
 
 # Devcon 8 — Mumbai field guide for agents
 
-Adapted from Sahil's Devcon 8 guide (https://sahilsen.github.io/devcon8-guide/) by @sensahil (https://x.com/sensahil), condensed and verified against the official Devcon pages. devcon.org is the source of truth — confirm prices, timings, and listings there before relying on them, since everything here can drift.
+Checked against the official Devcon pages. devcon.org is the source of truth — confirm prices, timings, and listings there before relying on them, since everything here can drift.
 
 ## 1. Venue and entry
 
@@ -59,7 +59,7 @@ Adapted from Sahil's Devcon 8 guide (https://sahilsen.github.io/devcon8-guide/) 
 - Do not drink the tap water, including for brushing teeth. Safe: sealed bottled water with an intact seal (Bisleri, Aquafina, Kinley, Himalayan), boiled or RO-filtered water, hot tea/coffee, sealed cans/bottles, coconut water from the shell.
 - Avoid: ice from unknown sources, raw salads and pre-cut fruit washed at carts, refilled "bottled" water — always check the seal cracks.
 - Delivery apps from the travel guide: Blinkit, Zepto, or Swiggy for deliveries including sealed bottled water; Zomato for food delivery, dine-in reviews, and booking.
-- Eat hot, freshly cooked food from busy, high-turnover stalls. Classics: vada pav, pav bhaji, dosas/idli (Matunga's South Indian strip), Gujarati thalis, coastal seafood. Mumbai is one of the easiest cities on earth for vegetarian, vegan, and Jain diets — Sahil's guide carries a filterable restaurant list with Maps links.
+- Eat hot, freshly cooked food from busy, high-turnover stalls. Classics: vada pav, pav bhaji, dosas/idli (Matunga's South Indian strip), Gujarati thalis, coastal seafood. Mumbai is one of the easiest cities on earth for vegetarian, vegan, and Jain diets — the Mumbai field guide in Sources carries a filterable restaurant list with Maps links.
 - Spice: "Indian medium" ≈ Western hot — say "kam teekha" (less spicy). Dairy hides in ghee, butter, cream, paneer, and curd; list the items, since "vegan" is not always understood. Cashew and almond pastes hide in rich gravies — flag allergies clearly.
 - Pack a tummy kit: ORS rehydration salts, an antidiarrhoeal such as loperamide, hand sanitiser. Pharmacies ("chemists") are everywhere; Wellness Forever and Apollo run late. Big private hospitals near BKC: Asian Heart (BKC), Lilavati (Bandra), Kokilaben (Andheri).
 
@@ -71,7 +71,7 @@ Adapted from Sahil's Devcon 8 guide (https://sahilsen.github.io/devcon8-guide/) 
   - Airalo — code DEVCON for 15% off; Android users should install the app before travel (not on India's Play Store).
   - Kokio — covers all Indian states via Jio, Airtel, and Vodafone Idea.
 - Physical SIM on arrival: official Jio or Airtel counter in the airport arrivals hall — bring passport, visa, and a passport photo. Activation can take a few hours. ID is mandatory (KYC); use official stores, not street vendors.
-- Best local networks per Sahil: Jio and Airtel; tourist plans run roughly ₹600–1,200.
+- Best local networks: Jio and Airtel; tourist plans run roughly ₹600–1,200.
 
 ## 8. Safety and etiquette
 
@@ -87,7 +87,7 @@ Adapted from Sahil's Devcon 8 guide (https://sahilsen.github.io/devcon8-guide/) 
 ## 9. Where to stay
 
 - Book early and refundable — Devcon week collides with pre-Diwali demand. Pick by commute to BKC, not kilometres: a hotel on the Metro line beats a closer one across a rush-hour bridge. Ask about fixed-fare airport pickup.
-- In/walkable to BKC (per Sahil): Trident BKC and Sofitel Mumbai BKC (luxury), Bloom Hotel BKC Kalina (budget, the closest of the chain).
+- In/walkable to BKC: Trident BKC and Sofitel Mumbai BKC (luxury), Bloom Hotel BKC Kalina (budget, the closest of the chain).
 - Next rings out: Bandra West (social scene, cafes, seafront — Taj Lands End, Pali Hill boutique stays), the Andheri/airport belt (ibis Mumbai Airport, Lemon Tree Premier, The Mirador, ITC Maratha, Hyatt Regency — good for arrival night and early flights), Juhu beachfront (JW Marriott, Novotel), Lower Parel (St. Regis), South Mumbai icons for sightseeing over commute (Taj Mahal Palace, The Oberoi). Hostels: The Hosteller, Zostel.
 - Official accommodation partner named on the ticket FAQ: Tripsha — designated rooms at discounted rates and attendee perks, first-come-first-served: https://app.tripsha.com/event/69b89b4703d64d0002894a82
 
@@ -103,7 +103,7 @@ Adapted from Sahil's Devcon 8 guide (https://sahilsen.github.io/devcon8-guide/) 
 
 ## 11. Sources
 
-- Sahil's Devcon 8 Mumbai field guide — https://sahilsen.github.io/devcon8-guide/
+- Mumbai field guide — https://sahilsen.github.io/devcon8-guide/
 - Devcon official site — https://devcon.org/en/
 - Devcon travel guide — https://devcon.org/en/travel-guide/
 - Devcon ticket FAQ — https://devcon.org/en/tickets/faq/

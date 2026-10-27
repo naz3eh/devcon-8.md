@@ -2,7 +2,7 @@
 
 An agent-readable skill for [Devcon 8](https://devcon.org/en/) — November 3–6, 2026, Jio World Centre, BKC, Mumbai. One `SKILL.md` covering venue and entry, the live schedule, arrival and transport, visas, money and UPI, food and water, SIM/eSIM, safety, and where to stay.
 
-Adapted from Sahil's Devcon 8 guide (https://sahilsen.github.io/devcon8-guide/) by @sensahil (https://x.com/sensahil), checked against the official Devcon pages.
+Checked against the official Devcon pages.
 
 ## Usage
 
